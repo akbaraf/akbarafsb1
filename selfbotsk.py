@@ -14,7 +14,7 @@ import time, random, multiprocessing, sys, json, codecs, threading, glob, re, st
 from gtts import gTTS
 from googletrans import Translator
 
-dz = LINE("akuntumbalinstagram@gmail.com","Black2027")
+dz = LINE("akuntumbalinstagram28@gmail.com","Black2027")
 dz.log("Auth Token : " + str(dz.authToken))
 dz.log("Timeline Token : " + str(dz.tl.channelAccessToken))
 
